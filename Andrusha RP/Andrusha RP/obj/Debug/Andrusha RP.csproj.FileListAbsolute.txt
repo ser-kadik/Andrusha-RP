@@ -1,0 +1,11 @@
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\bin\Debug\Andrusha RP.exe.config
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\bin\Debug\Andrusha RP.exe
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\bin\Debug\Andrusha RP.pdb
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha RP.csproj.AssemblyReference.cache
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha_RP.Form1.resources
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha_RP.Properties.Resources.resources
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha RP.csproj.GenerateResource.cache
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha RP.csproj.CoreCompileInputs.cache
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha RP.exe
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha RP.pdb
+I:\Мои работы\Andrusha RP\Andrusha RP\Andrusha RP\obj\Debug\Andrusha_RP.Form2.resources
